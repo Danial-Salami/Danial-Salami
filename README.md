@@ -9,7 +9,7 @@
 
 - Machine Learning
 - Deep Learning
-- Technical Analysis
+- Computer Vision
 
 ### ⚙️ Tech Stack
 
