@@ -37,8 +37,7 @@ I am a **Financial Software Engineer** focused on the intersection of **Institut
 
     </td>
    <td width="40%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3PfvY8LsvC/giphy.gif" alt="Blockchain Animation" width="90%" style="border-radius: 10px;" />
-    </td>
+  <img src="./dist/crypto_status.svg" alt="Live Crypto Status" width="100%" />    </td>
   </tr>
 </table>
 
