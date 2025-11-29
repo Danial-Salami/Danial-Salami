@@ -1,6 +1,6 @@
 # Danial Salami
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Danial-Salami&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views)](https://hits.seeyoufarm.com)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-Count-blue?style=flat)](https://github.com/Danial-Salami)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial-salami/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danialsari13@gmail.com)
 [![Github](https://img.shields.io/github/followers/Danial-Salami?label=Follow&style=social)](https://github.com/Danial-Salami)
@@ -41,7 +41,10 @@
 
 ### 📊 GitHub Stats
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&show_icons=true&locale=en&layout=compact&theme=dark" alt="Danial-Salami Top Languages" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Danial-Salami Streak" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&show_icons=true&locale=en&layout=compact&theme=dark" alt="Danial-Salami Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Danial-Salami Streak" /></td>
+  </tr>
+</table>
+
