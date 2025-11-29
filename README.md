@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,solidity,ethereum,python,docker,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,solidity,python,docker,azure&theme=dark" />
   </a>
 </div>
 
