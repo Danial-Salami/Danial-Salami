@@ -43,7 +43,8 @@
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&show_icons=true&layout=compact&theme=dark" alt="Top Languages" /></td>
+<td>[![Top Languages](https://img.shields.io/badge/Top%20Languages-Python-blue)](https://github.com/Danial-Salami)</td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Streak Stats" /></td>
 </tr>
 </table>
+
