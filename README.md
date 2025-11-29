@@ -64,19 +64,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table style="border: none; background-color: transparent;">
+  <table style="border: none; border-collapse: collapse; background-color: transparent;">
     <tr style="border: none; background-color: transparent;">
-      <td valign="top" width="50%" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Danial's Stats" style="max-width: 100%;" />
+      <td valign="top" width="50%" style="border: none; background-color: transparent; padding: 5px;">
+        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Danial's Stats" style="width: 100%;" />
       </td>
-      <td valign="top" width="50%" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dracula&hide_border=true&background=00000000" alt="Streak Stats" style="max-width: 100%;" />
+      <td valign="top" width="50%" style="border: none; background-color: transparent; padding: 5px;">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=Danial-Salami&theme=dracula&hide_border=true&background=00000000" alt="Streak Stats" style="width: 100%;" />
       </td>
     </tr>
     <tr style="border: none; background-color: transparent;">
-      <td colspan="2" align="center" style="border: none; background-color: transparent;">
-        <br/>
-        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=dracula&hide_border=true&langs_count=10&bg_color=00000000" alt="Top Languages" style="max-width: 100%;" />
+      <td colspan="2" align="center" style="border: none; background-color: transparent; padding: 5px;">
+        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" style="width: 100%;" />
       </td>
     </tr>
   </table>
