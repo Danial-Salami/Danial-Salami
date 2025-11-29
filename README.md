@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:33E6C8&height=280&section=header&text=Danial%20Salami&fontSize=80&fontAlignY=35&desc=Blockchain%20Architect%20%26%20.NET%20Engineer&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=33E6C8&center=true&vCenter=true&width=600&lines=Building+High-Frequency+Trading+Systems;Architecting+Scalable+Smart+Contracts;Bridging+DeFi+and+Traditional+Finance;.NET+8+%2B+Solidity+%2B+Python+AI" alt="Typing SVG" />
   </a>
