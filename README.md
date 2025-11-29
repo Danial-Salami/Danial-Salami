@@ -64,11 +64,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danial-Salami&theme=dracula" alt="Profile Details" />
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danial-Salami&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danial-Salami&theme=dracula" alt="Most Commits" />
-
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000" alt="Danial's Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=radical&hide_border=true&background=00000000" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
