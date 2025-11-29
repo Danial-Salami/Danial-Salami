@@ -1,82 +1,85 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Danial%20Salami&fontSize=80&fontAlignY=35&desc=Blockchain%20Architect%20%26%20.NET%20Engineer&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F8D847&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danial+Salami;Blockchain+%26+.NET+Developer;Building+Smart+FinTech+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=33E6C8&center=true&vCenter=true&width=600&lines=Building+High-Frequency+Trading+Systems;Architecting+Scalable+Smart+Contracts;Bridging+DeFi+and+Traditional+Finance;.NET+8+%2B+Solidity+%2B+Python+AI" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://www.linkedin.com/in/danial-salami/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:danialsari13@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/Danial-Salami">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-
 </div>
 
----
+<br />
 
-**I'm a passionate C# .NET developer and R&D engineer with hands-on experience in blockchain, smart contracts, and scalable system design.** I build **smarter trading platforms and blockchain solutions** for finance and real estate, while leveraging **AI/ML in Python** to enhance analytics, automation, and intelligent features. **Driven by real-world impact**, I combine technology, research, and innovation to deliver reliable and cutting-edge solutions.
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
----
+### ⚡ System Status: Online
 
-### 🖥 Skills
+> *"Code is the law, but performance is the currency."*
 
-- Blockchain Development & Smart Contracts (Solidity, Web3)
-- Backend Development (.NET 8, C#)
-- AI & Machine Learning (Python, ML/DL, Data Analysis)
-- Web Development (HTML, CSS, JavaScript)
-- System Architecture & Scalable Solutions
-- Trading Systems & Financial Applications
+I am a **Financial Software Engineer** focused on the intersection of **Institutional Finance** and **Decentralized Ledgers**. My work replaces legacy financial infrastructure with high-performance .NET cores and secure Solidity smart contracts.
 
----
+- 🔭 **Currently Building:** AI-driven Arbitrage Bots & Real Estate Tokenization platforms.
+- 🏦 **Domain:** CEX/DEX Architecture, Liquidity Pools, High-Load Systems.
+- 🧠 **Research:** Integrating Python ML models into C# Trading execution flows.
 
-### 🛠 Tech Stack
-
-<div align="left">
-
-**Blockchain & Backend**<br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-
-**AI & Data Science**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-**Web & Tools**<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://i.pinimg.com/originals/f7/56/67/f75667d44acb014c2415123d4679be4a.gif" alt="Blockchain Animation" width="90%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠️ The Arsenal
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td valign="top" width="50%" style="border: none; background-color: transparent; padding: 5px;">
-        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Danial's Stats" style="width: 100%;" />
-      </td>
-      <td valign="top" width="50%" style="border: none; background-color: transparent; padding: 5px;">
-        <img src="https://streak-stats.demolab.com/?user=Danial-Salami&theme=github_dark&hide_border=true&background=0D1117" alt="Streak Stats" style="width: 100%;" />
-      </td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td colspan="2" align="center" style="border: none; background-color: transparent; padding: 5px;">
-        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" style="width: 100%;" />
-      </td>
-    </tr>
-  </table>
+
+| **Core Backend** | **Blockchain & Web3** | **AI & Data** | **Infrastructure** |
+| :---: | :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity,ethereum,ts" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,azure,git" /></a> |
+
+</div>
+
+---
+
+### 💎 Featured Deployments
+
+| **Algorithmic Trading Bot** | **DeFi Liquidity Aggregator** |
+|:---:|:---:|
+| <img src="https://cdn.dribbble.com/users/401164/screenshots/10695020/media/89a5843477810313cb87df35649983f4.png" width="400" alt="Trading Bot UI" /> | <img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/8c7634f59c8491c10d7a04ba344101d2.jpg" width="400" alt="DeFi Dashboard" /> |
+| **Tech:** .NET 8, WebSockets, Redis | **Tech:** Solidity, Web3.js, React |
+| High-frequency trading engine connecting to Binance & Kraken APIs. | Smart contract system for optimizing yield farming across multiple chains. |
+| [View Code](#) | [View Code](#) |
+
+---
+
+### 📊 Network Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danial-Salami&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Danial-Salami&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danial-Salami" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Danial-Salami/Danial-Salami/blob/output/github-contribution-grid-snake.svg" alt="snake output" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%"/>
 </div>
