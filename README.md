@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Danial%20Salami&fontSize=80&fontAlignY=35&desc=Blockchain%20Architect%20%26%20.NET%20Engineer&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:33E6C8&height=280&section=header&text=Danial%20Salami&fontSize=80&fontAlignY=35&desc=Blockchain%20Architect%20%26%20.NET%20Engineer&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=33E6C8&center=true&vCenter=true&width=600&lines=Building+High-Frequency+Trading+Systems;Architecting+Scalable+Smart+Contracts;Bridging+DeFi+and+Traditional+Finance;.NET+8+%2B+Solidity+%2B+Python+AI" alt="Typing SVG" />
@@ -36,8 +36,8 @@ I am a **Financial Software Engineer** focused on the intersection of **Institut
 - 🧠 **Research:** Integrating Python ML models into C# Trading execution flows.
 
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://i.pinimg.com/originals/f7/56/67/f75667d44acb014c2415123d4679be4a.gif" alt="Blockchain Animation" width="90%" style="border-radius: 10px;" />
+   <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3PfvY8LsvC/giphy.gif" alt="Blockchain Animation" width="90%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -56,24 +56,11 @@ I am a **Financial Software Engineer** focused on the intersection of **Institut
 
 ---
 
-### 💎 Featured Deployments
-
-| **Algorithmic Trading Bot** | **DeFi Liquidity Aggregator** |
-|:---:|:---:|
-| <img src="https://cdn.dribbble.com/users/401164/screenshots/10695020/media/89a5843477810313cb87df35649983f4.png" width="400" alt="Trading Bot UI" /> | <img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/8c7634f59c8491c10d7a04ba344101d2.jpg" width="400" alt="DeFi Dashboard" /> |
-| **Tech:** .NET 8, WebSockets, Redis | **Tech:** Solidity, Web3.js, React |
-| High-frequency trading engine connecting to Binance & Kraken APIs. | Smart contract system for optimizing yield farming across multiple chains. |
-| [View Code](#) | [View Code](#) |
-
----
-
 ### 📊 Network Activity
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Danial-Salami&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Danial-Salami&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danial-Salami" />
+  <br/><br/>  
 </div>
 
 <div align="center">
