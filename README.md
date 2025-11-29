@@ -70,7 +70,7 @@
         <img src="https://github-readme-stats-eight-zeta-65.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Danial's Stats" style="width: 100%;" />
       </td>
       <td valign="top" width="50%" style="border: none; background-color: transparent; padding: 5px;">
-        <img src="https://github-readme-stats-eight-zeta-65.vercel.app/?user=Danial-Salami&theme=github_dark&hide_border=true&background=0D1117" alt="Streak Stats" style="width: 100%;" />
+        <img src="https://github-readme-streak-stats-seven-plum.vercel.app/?user=Danial-Salami&theme=github_dark&hide_border=true&background=0D1117" alt="Streak Stats" style="width: 100%;" />
       </td>
     </tr>
     <tr style="border: none; background-color: transparent;">
