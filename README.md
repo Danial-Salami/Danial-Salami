@@ -1,9 +1,22 @@
-# Danial Salami
+<div align="center">
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-See%20GitHub-blue?style=flat)](https://github.com/Danial-Salami)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial-salami/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danialsari13@gmail.com)
-[![Github](https://img.shields.io/github/followers/Danial-Salami?label=Follow&style=social)](https://github.com/Danial-Salami)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danial+Salami;Blockchain+%26+.NET+Developer;Building+Smart+FinTech+Solutions" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/danial-salami/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:danialsari13@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/Danial-Salami">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
@@ -13,38 +26,57 @@
 
 ### 🖥 Skills
 
-- Blockchain Development & Smart Contracts (Solidity, Web3)  
-- Backend Development (.NET 8, C#)  
-- AI & Machine Learning (Python, ML/DL, Data Analysis)  
-- Web Development (HTML, CSS, JavaScript)  
-- System Architecture & Scalable Solutions  
-- Trading Systems & Financial Applications  
+- Blockchain Development & Smart Contracts (Solidity, Web3)
+- Backend Development (.NET 8, C#)
+- AI & Machine Learning (Python, ML/DL, Data Analysis)
+- Web Development (HTML, CSS, JavaScript)
+- System Architecture & Scalable Solutions
+- Trading Systems & Financial Applications
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=000000) 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=plastic&logo=c%23&color=239120) 
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=plastic&logo=.net&color=512BD4) 
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=plastic&logo=Solidity&color=363636) 
-![Web3](https://img.shields.io/badge/-Web3-05122A?style=plastic) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=plastic&logo=TensorFlow&color=FF6F00) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=plastic&logo=PyTorch&color=EE4C2C) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript&color=F7DF1E) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5&color=E34F26) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&color=1572B6) 
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=plastic&logo=pandas&color=150458) 
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=plastic&logo=numpy&color=013243) 
+<div align="left">
+
+**Blockchain & Backend**<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+**AI & Data Science**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Web & Tools**<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<table>
-<tr>
-<td>[![Top Languages](https://img.shields.io/badge/Top%20Languages-Python-blue)](https://github.com/Danial-Salami)</td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Streak Stats" /></td>
-</tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000" alt="Danial's Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=radical&hide_border=true&background=00000000" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
