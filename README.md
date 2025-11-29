@@ -1,6 +1,6 @@
 # Danial Salami
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-Count-blue?style=flat)](https://github.com/Danial-Salami)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-See%20GitHub-blue?style=flat)](https://github.com/Danial-Salami)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial-salami/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danialsari13@gmail.com)
 [![Github](https://img.shields.io/github/followers/Danial-Salami?label=Follow&style=social)](https://github.com/Danial-Salami)
@@ -26,7 +26,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=000000) 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=plastic&logo=c%23&color=239120) 
-![NET](https://img.shields.io/badge/-.NET-05122A?style=plastic&logo=.net&color=512BD4) 
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=plastic&logo=.net&color=512BD4) 
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=plastic&logo=Solidity&color=363636) 
 ![Web3](https://img.shields.io/badge/-Web3-05122A?style=plastic) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=plastic&logo=TensorFlow&color=FF6F00) 
@@ -42,9 +42,8 @@
 ### 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&show_icons=true&locale=en&layout=compact&theme=dark" alt="Danial-Salami Top Languages" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Danial-Salami Streak" /></td>
-  </tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&show_icons=true&layout=compact&theme=dark" alt="Top Languages" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=dark&hide_border=true" alt="Streak Stats" /></td>
+</tr>
 </table>
-
