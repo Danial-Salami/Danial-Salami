@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danial+Salami;Blockchain+%26+.NET+Developer;Building+Smart+FinTech+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F8D847&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danial+Salami;Blockchain+%26+.NET+Developer;Building+Smart+FinTech+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -67,15 +67,15 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Danial-Salami&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000" alt="Danial's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Danial-Salami&show_icons=true&theme=radical&hide_border=true" alt="Danial's Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=radical&hide_border=true&background=00000000" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danial-Salami&theme=radical&hide_border=true" alt="Streak Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Salami&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
